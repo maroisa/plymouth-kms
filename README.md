@@ -9,7 +9,7 @@ pacman -S plymouth
 emerge sys-boot/plymouth
 
 # Debian/Ubuntu
-apt install apt install plymouth-theme-breeze kde-config-plymouth
+apt install plymouth-theme-breeze kde-config-plymouth
 ```
 
 2. edit /etc/default/grub and add these options
